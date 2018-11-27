@@ -8,6 +8,8 @@ on the web.
 -Make executable on windows (compile on wine?)
 -Make executable on phone (qpython or py2app?)
 
+Good morning
+
 """
 
 
